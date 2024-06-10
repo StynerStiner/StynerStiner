@@ -71,11 +71,6 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styner2023&layout=compact&theme=buefy" alt="Top Languages" />
 </div>
 
-## 🌐 Language Skills 🌐
-- **English**: Fluent
-- **Dutch**: Fluent
-- **French**: Beginner
-
 ## 🌺 Volunteer Work 🌺
 <div align="center">
   <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="120" style="vertical-align: middle;"/>
@@ -85,4 +80,10 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 - **Providing** comprehensive support for households impacted by events such as home fires, floods/storm damage, and earthquakes.
 - **Facilitating** referrals and connecting individuals with appropriate resources for recovery, ensuring thorough assistance.
 - **Collaborating** with team members to ensure comprehensive support and efficient coordination for affected households.
+
+## 🌐 Language Skills 🌐
+- **English**: Fluent
+- **Dutch**: Fluent
+- **French**: Beginner
+
 
