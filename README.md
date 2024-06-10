@@ -83,6 +83,10 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
   <li><strong>Collaborating</strong> with team members to ensure comprehensive support and efficient coordination for affected households.</li>
 </ul>
 
+## 🎤 Public Speaking & Community Engagement 🎤
+- **Public Speaker** at UCLA and Bishop O’Dowd High School: Speak to 25-30 students every month on topics such as social justice, climate change, and mental health.
+- **Active Participant** at Canticle Farm: Engaged in community activities focused on social justice and environmental sustainability. Learn more about the community [here](https://canticlefarmoakland.org/about/).
+
 ## 🌐 Language Skills 🌐
 - **English**: Fluent
 - **Dutch**: Fluent
