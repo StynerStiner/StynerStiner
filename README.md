@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+Coding;I+am+a+Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
 </div>
 
-<!-- Typing effect animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+Coding;I+am+a+Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
   <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/flowers.gif" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
@@ -70,7 +65,7 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 
 ## 📊 GitHub Stats 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Styner2023&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Styner2023&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide=prs,issues" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Styner2023&theme=buefy&count_private=true" alt="GitHub Streak Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styner2023&layout=compact&theme=buefy" alt="Top Languages" />
@@ -84,3 +79,4 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 ## 🌺 Volunteer Work 🌺
 - **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remote
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Styner2023.Styner2023)
+
