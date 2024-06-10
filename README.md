@@ -16,7 +16,7 @@ Agile Leader & Full-Stack Developer | Certified Scrum Master & Agile Practitione
 </p>
 
 <p align="center">
-I'm Styner Stiner, an accomplished Agile leader and full-stack developer passionate about artificial intelligence, C++ programming, and software development. I'm currently attending Dominican University of California, where I'm pursuing a degree in Computer Science. My journey in tech is driven by a desire to innovate and solve real-world problems through code.
+I'm Styner Stiner, an accomplished Agile leader and full-stack developer with a deep passion for artificial intelligence, C++ programming, and software development. Coding has always been my dream, and I am committed to becoming an engineer. I am currently attending Dominican University of California, where I am pursuing a degree in Computer Science. Beyond my technical pursuits, I am skilled in using Docker and various AWS services, including S3, Route 53, and EC2. I am dedicated to giving back to the community through public speaking and volunteering. I regularly speak to students at UCLA and Bishop O'Dowd High School on social justice, climate change, and mental health, and actively participate in the Canticle Farm community. I am fluent in English and Dutch, with beginner proficiency in French. My journey in tech is driven by a desire to innovate, solve real-world problems, and make a positive impact in the lives of others through code and community engagement.
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer passion
 
 ## 🌸 Skills and Tools 🌸
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,github,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,github,linux,docker,aws" alt="Skills" />
 </p>
 
 ## 🌹 Achievements 🌹
@@ -74,8 +74,7 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 ## 🌺 Volunteer Work 🌺
 <div align="center">
   <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="120" style="vertical-align: middle;"/>
-  <span><strong>Red Cross Disaster Cycle Services</strong> at American Red Cross 
-    · Part-time (Nov 2023 - Present · 8 mos) Northern California · Remote</span>
+  <span><strong>Red Cross Disaster Cycle Services</strong> at American Red Cross · Part-time (Nov 2023 - Present · 8 mos) Northern California · Remote</span>
 </div>
 
 - **Developed** a well-normalized database, recognized for its efficiency in recovery planning and case work follow-up for households impacted by local disaster events.
@@ -83,3 +82,11 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 - **Facilitated** referrals and connected individuals with appropriate resources for recovery, ensuring thorough assistance.
 - **Collaborated** with team members to ensure comprehensive support and efficient coordination for affected households.
 
+## 🎤 Public Speaking & Community Engagement 🎤
+- **Public Speaker** at UCLA and Bishop O’Dowd High School: Speak to 25-30 students every month on topics such as social justice, climate change, and mental health.
+- **Active Participant** at Canticle Farm: Engaged in community activities focused on social justice and environmental sustainability. Learn more about the community [here](https://canticlefarmoakland.org/about/).
+
+## 🌐 Language Skills 🌐
+- **English**: Fluent
+- **Dutch**: Fluent
+- **French**: Beginner
