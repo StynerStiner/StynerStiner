@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+C++;Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
 </div>
 
-<h1 align="center"><span class="typing">I love AI</span></h1>
-
 <div align="center">
   <img src="https://github.com/Styner2023/your-repo/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
   <img src="https://github.com/Styner2023/your-repo/raw/main/assets/flowers.gif" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
