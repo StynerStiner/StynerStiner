@@ -32,12 +32,12 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer with a 
   </video>
 </div>
 
-## 🌸 Skills and Tools 🌸
+## 🌟 Skills and Tools 🌟
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,github,linux,docker,aws" alt="Skills" />
 </p>
 
-## 🌹 Achievements 🌹
+## 🎊🥳🎊 Achievements 🎊🥳🎊
 <p align="center">
   <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM I">
   <img src="https://img.shields.io/badge/Python%20Essentials-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials">
@@ -46,7 +46,7 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer with a 
   <img src="https://img.shields.io/badge/Full%20Stack%20Applications%20Developer-000000?style=for-the-badge&logo=developer&logoColor=white" alt="Full Stack Applications Developer">
 </p>
 
-## 🌟 Passion Projects 🌟
+## 🌸 Passion Projects 🌸 
 
 ### ToDoList Built with C++ 
 [ToDoList Repository](https://github.com/Styner2023/ToDoList)
