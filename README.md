@@ -64,25 +64,3 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 **Red Cross Disaster Cycle Services**
 *American Red Cross · Part-time (Nov 2023 - Present · 8 mos)*
 *California, United States · Remote*
-
----
-
-Feel free to modify the above markdown content as needed. Once you're ready, save the changes to your `README.md` file, commit, and push the changes to your GitHub repository. Here's how you can do it:
-
-```bash
-# Navigate to your repository
-cd path/to/Styner2023
-
-# Create or edit the README.md file
-nano README.md
-
-# (Paste the updated content above into the file and save it)
-
-# Stage the changes
-git add README.md
-
-# Commit the changes
-git commit -m "Update GitHub profile README with LinkedIn, Credly, volunteer work, and passion projects information"
-
-# Push the changes to the main branch
-git push origin main
