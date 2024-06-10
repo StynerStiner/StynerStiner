@@ -35,15 +35,14 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer with a 
 ## 🌟 Skills and Tools 🌟
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,github,linux,docker,aws" alt="Skills" />
-</p>
 
-## 🌹 Achievements 🌹
+  ## 🎉 Achievements 🎉
 <p align="center">
   <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM I">
   <img src="https://img.shields.io/badge/Python%20Essentials-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials">
   <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20II-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM II">
   <img src="https://img.shields.io/badge/Google%20Project%20Management%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" width="150">
   <img src="https://img.shields.io/badge/Full%20Stack%20Applications%20Developer-000000?style=for-the-badge&logo=developer&logoColor=white" alt="Full Stack Applications Developer">
 </p>
 
