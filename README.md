@@ -1,16 +1,9 @@
-<style>
-@keyframes fadeInOut {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-</style>
-
-<h1 align="center">I love AI</h1>
+<h1 align="center"><span class="typing">I love AI</span></h1>
 
 <div align="center">
-  <img src="https://tenor.com/view/red-roses-gif-22367384" alt="Red Roses" width="100" style="animation: fadeInOut 5s infinite;" />
-  <img src="https://tenor.com/view/catlowe-catlowecom-flowers-i-love-you-valentine-gif-14879515439524561391" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
-  <img src="https://tenor.com/view/red-roses-gif-22367384" alt="Red Roses" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://github.com/Styner2023/your-repo/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://github.com/Styner2023/your-repo/raw/main/assets/flowers.gif" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://github.com/Styner2023/your-repo/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
 </div>
 
 <h2 align="center">Hi there 👋</h2>
@@ -25,7 +18,7 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer passion
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kishana-stiner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.credly.com/users/kishana-stiner/badges"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"></a>
+  <a href="https://www.credly.com/users/kishana.stiner/badges"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"></a>
 </div>
 
 ## 🌸 Skills and Tools 🌸
@@ -39,6 +32,7 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer passion
   <img src="https://img.shields.io/badge/Python%20Essentials-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials">
   <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20II-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM II">
   <img src="https://img.shields.io/badge/Google%20Project%20Management%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Applications%20Developer-000000?style=for-the-badge&logo=developer&logoColor=white" alt="Full Stack Applications Developer">
 </p>
 
 ## 🌟 Passion Projects 🌟
@@ -61,11 +55,40 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 
 ## 📊 GitHub Stats 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Styner2023&show_icons=true&theme=buefy" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Styner2023&theme=buefy" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Styner2023&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Styner2023&theme=buefy&count_private=true" alt="GitHub Streak Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styner2023&layout=compact&theme=buefy" alt="Top Languages" />
 </div>
 
+## 🐍 Contributions Snake 🐍
+<div align="center">
+  <img src="https://github.com/Styner2023/Styner2023/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</div>
+
 ## 🌺 Volunteer Work 🌺
 - **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remote
+
+<style>
+.typing {
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
+@keyframes fadeInOut {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+</style>
+
