@@ -69,6 +69,3 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 
 ## 🌺 Volunteer Work 🌺
 - **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remote
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Styner2023.Styner2023)
-
-
