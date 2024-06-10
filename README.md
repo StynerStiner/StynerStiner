@@ -8,7 +8,10 @@
 **Agile Leader & Full-Stack Developer | Certified Scrum Master & Agile Practitioner | Proficient in Jira & Python | Dedicated to Driving Innovation**
 
 <div align="center">
-  <img src="https://github.com/account" alt="Profile Picture" width="200" style="border-radius: 15px; animation: fadeInOut 5s infinite;" />
+  <img src="https://example.com/flower1.png" alt="Flower" width="200" style="border-radius: 15px; animation: fadeInOut 5s infinite;" />
+  <img src="https://example.com/rose1.png" alt="Rose" width="200" style="border-radius: 15px; animation: fadeInOut 5s infinite;" />
+  <img src="https://example.com/flower2.png" alt="Flower" width="200" style="border-radius: 15px; animation: fadeInOut 5s infinite;" />
+  <img src="https://example.com/rose2.png" alt="Rose" width="200" style="border-radius: 15px; animation: fadeInOut 5s infinite;" />
 </div>
 
 <style>
