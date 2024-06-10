@@ -67,28 +67,4 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 </div>
 
 ## 🌺 Volunteer Work 🌺
-- **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remote
-
-<style>
-.typing {
-  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-@keyframes fadeInOut {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-</style>
-
+- **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remot
