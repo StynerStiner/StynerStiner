@@ -71,21 +71,18 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styner2023&layout=compact&theme=buefy" alt="Top Languages" />
 </div>
 
-## 🌺 Volunteer Work 🌺
-<div align="center">
-  <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="120" style="vertical-align: middle;"/>
-  <span>**Red Cross Disaster Cycle Services** American Red Cross 
-    · Part-time (Nov 2023 - Present · 8 mos) California, United States 
-    · Remote</span>
-  <ul>
-    <li>**Developing** a well-normalized database, recognized for its efficiency in recovery planning and case work follow-up for households impacted by local disaster events.</li>
-    <li>**Providing** comprehensive support for households impacted by events such as home fires, floods/storm damage, and earthquakes.</li>
-    <li>**Facilitating** referrals and connecting individuals with appropriate resources for recovery, ensuring thorough assistance.</li>
-    <li>**Collaborating** with team members to ensure comprehensive support and efficient coordination for affected households.</li>
-  </ul>
-</div>
-
 ## 🌐 Language Skills 🌐
 - **English**: Fluent
 - **Dutch**: Fluent
 - **French**: Beginner
+
+## 🌺 Volunteer Work 🌺
+<div align="center">
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="120" style="vertical-align: middle;"/>
+  <span><strong>Red Cross Disaster Cycle Services</strong> at American Red Cross · Part-time (Nov 2023 - Present · 8 mos) Northern California · Remote</span>
+</div>
+- **Developing** a well-normalized database, recognized for its efficiency in recovery planning and case work follow-up for households impacted by local disaster events.
+- **Providing** comprehensive support for households impacted by events such as home fires, floods/storm damage, and earthquakes.
+- **Facilitating** referrals and connecting individuals with appropriate resources for recovery, ensuring thorough assistance.
+- **Collaborating** with team members to ensure comprehensive support and efficient coordination for affected households.
+
