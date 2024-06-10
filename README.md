@@ -1,6 +1,6 @@
 <!-- Typing effect animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+Coding;I+am+a+Full+Stack+Developer;Agile+Leader+%26+Scrum+Master;Currently+Learning+C%2B%2B+and+Aiming+to+Master+It;Passionate+Philomath;Dedicated+to+Sharing+Knowledge+%26+Teaching+Others" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+Coding;I+am+a+Full+Stack+Developer;Agile+Leader+%26+Scrum+Master;Currently+Learning+C%2B%2B+and+Aiming+to+Master+It;Passionate+Philomath;Dedicated+to+Sharing+Knowledge+%26+Teaching+Others" alt="Typing SVG" />
 </div>
 
 
