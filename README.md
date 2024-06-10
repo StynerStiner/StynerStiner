@@ -46,7 +46,7 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer with a 
   <img src="https://img.shields.io/badge/Full%20Stack%20Applications%20Developer-000000?style=for-the-badge&logo=developer&logoColor=white" alt="Full Stack Applications Developer">
 </p>
 
-## 🌸 Passion Projects 🌸 
+## 💕 Passion Projects 💕 
 
 ### ToDoList Built with C++ 
 [ToDoList Repository](https://github.com/Styner2023/ToDoList)
