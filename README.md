@@ -77,14 +77,19 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
   <span><strong>Disaster Cycle Services</strong> at American Red Cross · (Nov 2023 - Present · 8 mos) Northern California · Remote</span>
 </div>
 
-- **Developed** a well-normalized database, recognized for its efficiency in recovery planning and case work follow-up for households impacted by local disaster events.
-- **Provided** comprehensive support for households impacted by events such as home fires, floods/storm damage, and earthquakes.
-- **Facilitated** referrals and connected individuals with appropriate resources for recovery, ensuring thorough assistance.
-- **Collaborated** with team members to ensure comprehensive support and efficient coordination for affected households.
-
-## 🎤 Public Speaking & Community Engagement 🎤
-- **Public Speaker** at UCLA and Bishop O’Dowd High School: Speak to 25-30 students every month on topics such as social justice, climate change, and mental health.
-- **Active Participant** at Canticle Farm: Engaged in community activities focused on social justice and environmental sustainability. Learn more about the community [here](https://canticlefarmoakland.org/about/).
+## 🌺 Volunteer Work 🌺
+<div align="center">
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="120" style="vertical-align: middle;"/>
+  <span>**Red Cross Disaster Cycle Services** American Red Cross 
+    · Part-time (Nov 2023 - Present · 8 mos) California, United States 
+    · Remote</span>
+  <ul>
+    <li>**Developing** a well-normalized database, recognized for its efficiency in recovery planning and case work follow-up for households impacted by local disaster events.</li>
+    <li>**Providing** comprehensive support for households impacted by events such as home fires, floods/storm damage, and earthquakes.</li>
+    <li>**Facilitating** referrals and connecting individuals with appropriate resources for recovery, ensuring thorough assistance.</li>
+    <li>**Collaborating** with team members to ensure comprehensive support and efficient coordination for affected households.</li>
+  </ul>
+</div>
 
 ## 🌐 Language Skills 🌐
 - **English**: Fluent
