@@ -10,7 +10,7 @@
   <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
 </div>
 
-<h2 align="center">🤓Hi there 👋</h2>
+<h2 align="center">🤓 Hi there 👋</h2>
 
 <p align="center">
 Agile Leader & Full-Stack Developer | Certified Scrum Master & Agile Practitioner | Proficient in Jira & Python | Dedicated to Driving Innovation
