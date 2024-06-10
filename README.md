@@ -2,8 +2,6 @@
 
 **Agile Leader & Full-Stack Developer | Certified Scrum Master & Agile Practitioner | Proficient in Jira & Python | Dedicated to Driving Innovation**
 
-![Profile Picture](https://avatars.githubusercontent.com/u/145401330?v=4) <!-- Update with your profile picture URL -->
-
 I'm Kishana Stiner, an accomplished Agile leader and full-stack developer passionate about artificial intelligence, C++ programming, and software development. I'm currently attending Dominican University of California, where I'm pursuing a degree in Computer Science. My journey in tech is driven by a desire to innovate and solve real-world problems through code. 
 
 ### 🌐 Connect with me
