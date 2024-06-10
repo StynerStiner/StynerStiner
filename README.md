@@ -1,17 +1,31 @@
-## Hi there 👋
+<!-- Typing effect animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+C++;Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
+</div>
+
+# Hi there 👋
 
 **Agile Leader & Full-Stack Developer | Certified Scrum Master & Agile Practitioner | Proficient in Jira & Python | Dedicated to Driving Innovation**
 
-![Profile Picture](https://github.com/account) <!-- Update with your profile picture URL -->
+<div align="center">
+  <img src="https://github.com/account" alt="Profile Picture" width="200" style="border-radius: 15px; animation: fadeInOut 5s infinite;" />
+</div>
 
-I'm Kishana Stiner, an accomplished Agile leader and full-stack developer passionate about artificial intelligence, C++ programming, and software development. I'm currently attending Dominican University of California, where I'm pursuing a degree in Computer Science. My journey in tech is driven by a desire to innovate and solve real-world problems through code. 
+<style>
+@keyframes fadeInOut {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+</style>
+
+I'm Styner Stiner, an accomplished Agile leader and full-stack developer passionate about artificial intelligence, C++ programming, and software development. I'm currently attending Dominican University of California, where I'm pursuing a degree in Computer Science. My journey in tech is driven by a desire to innovate and solve real-world problems through code.
 
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishana-stiner/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kishana.stiner/badges)
 
-### 🚀 Skills and Tools
+### 🛠 Skills and Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -24,7 +38,7 @@ I'm Kishana Stiner, an accomplished Agile leader and full-stack developer passio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏆 Achievements
+### 🌸 Achievements 🌸
 
 ![Professional Scrum Master I](https://img.shields.io/badge/-Professional%20Scrum%20Master%20I-blue?style=for-the-badge&logo=badge&logoColor=white)
 ![Professional Scrum Master II](https://img.shields.io/badge/-Professional%20Scrum%20Master%20II-blue?style=for-the-badge&logo=badge&logoColor=white)
@@ -32,7 +46,7 @@ I'm Kishana Stiner, an accomplished Agile leader and full-stack developer passio
 ![Google Project Management Certificate](https://img.shields.io/badge/-Google%20Project%20Management%20Certificate-blue?style=for-the-badge&logo=badge&logoColor=white)
 ![Cloud Computing Core](https://img.shields.io/badge/-Cloud%20Computing%20Core-blue?style=for-the-badge&logo=badge&logoColor=white)
 
-### 🔥 Passion Projects
+### 🌟 Passion Projects 🌟
 
 **ToDoList**
 *Built with C++*
@@ -61,8 +75,10 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 ### 📈 GitHub Stats
 
 ![Styner2023's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Styner2023&show_icons=true&theme=radical)
+![Styner2023's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Styner2023&theme=radical)
+![Styner2023's Contribution Snake](https://github.com/Styner2023/Styner2023/blob/output/github-contribution-grid-snake.svg)
 
-### 🌟 Volunteer Work
+### 🌟 Volunteer Work 🌟
 
 ![Red Cross](https://img.shields.io/badge/Red%20Cross-D32F2F?style=for-the-badge&logo=american%20red%20cross&logoColor=white)
 
@@ -72,8 +88,4 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 
 ---
 
-<!-- Typing effect animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Kishana+Stiner;I+love+AI+and+C++;Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
-</div>
-
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Styner2023.Styner2023)
