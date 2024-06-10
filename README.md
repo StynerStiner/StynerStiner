@@ -1,3 +1,8 @@
+<!-- Typing effect animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+C++;Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
+</div>
+
 <h1 align="center"><span class="typing">I love AI</span></h1>
 
 <div align="center">
