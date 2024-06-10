@@ -1,18 +1,29 @@
+<style>
+@keyframes fadeInOut {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+</style>
+
+<h1 align="center">I love AI</h1>
 
 <div align="center">
-  <h1 style="font-family: 'Brush Script MT', cursive; color: #ff69b4;">I love AI</h1>
-  <img src="assets/flowers.gif" width="100" style="animation: fadeInOut 5s infinite;" />
-  <img src="assets/red-roses.gif" width="100" style="animation: fadeInOut 5s infinite; animation-delay: 2.5s;" />
-  <img src="assets/flowers.gif" width="100" style="animation: fadeInOut 5s infinite;" />
-  <style>
-    @keyframes fadeInOut {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-  </style>
-  <h2>Hi there 👋</h2>
-  <p>I'm Styner Stiner, an accomplished Agile leader and full-stack developer passionate about artificial intelligence, C++ programming, and software development. I'm currently attending Dominican University of California, where I'm pursuing a degree in Computer Science. My journey in tech is driven by a desire to innovate and solve real-world problems through code.</p>
-  <br>
+  <img src="https://tenor.com/view/red-roses-gif-22367384" alt="Red Roses" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://tenor.com/view/catlowe-catlowecom-flowers-i-love-you-valentine-gif-14879515439524561391" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://tenor.com/view/red-roses-gif-22367384" alt="Red Roses" width="100" style="animation: fadeInOut 5s infinite;" />
+</div>
+
+<h2 align="center">Hi there 👋</h2>
+
+<p align="center">
+Agile Leader & Full-Stack Developer | Certified Scrum Master & Agile Practitioner | Proficient in Jira & Python | Dedicated to Driving Innovation
+</p>
+
+<p align="center">
+I'm Styner Stiner, an accomplished Agile leader and full-stack developer passionate about artificial intelligence, C++ programming, and software development. I'm currently attending Dominican University of California, where I'm pursuing a degree in Computer Science. My journey in tech is driven by a desire to innovate and solve real-world problems through code.
+</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/kishana-stiner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.credly.com/users/kishana-stiner/badges"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"></a>
 </div>
@@ -24,9 +35,9 @@
 
 ## 🌹 Achievements 🌹
 <p align="center">
-  <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-00DC82?style=for-the-badge&logo=professional&logoColor=white" alt="PSM I">
-  <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20II-00DC82?style=for-the-badge&logo=professional&logoColor=white" alt="PSM II">
+  <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM I">
   <img src="https://img.shields.io/badge/Python%20Essentials-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials">
+  <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20II-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM II">
   <img src="https://img.shields.io/badge/Google%20Project%20Management%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate">
 </p>
 
@@ -58,3 +69,6 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 
 ## 🌺 Volunteer Work 🌺
 - **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remote
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Styner2023.Styner2023)
+
+
