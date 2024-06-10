@@ -73,7 +73,7 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
 
 ## 🌺 Volunteer Work 🌺
 <div align="center">
-  <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="100" style="vertical-align: middle;"/>
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="120" style="vertical-align: middle;"/>
   <span>**Red Cross Disaster Cycle Services** American Red Cross 
     · Part-time (Nov 2023 - Present · 8 mos) California, United States 
     · Remote</span>
