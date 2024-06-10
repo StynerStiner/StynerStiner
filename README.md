@@ -3,10 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+Coding;I+am+a+Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
 </div>
 
+<!-- Typing effect animation -->
 <div align="center">
-  <img src="https://github.com/Styner2023/your-repo/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
-  <img src="https://github.com/Styner2023/your-repo/raw/main/assets/flowers.gif" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
-  <img src="https://github.com/Styner2023/your-repo/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+Coding;I+am+a+Full+Stack+Developer;Agile+Leader+%26+Scrum+Master" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/flowers.gif" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
 </div>
 
 <h2 align="center">Hi there 👋</h2>
@@ -22,6 +27,13 @@ I'm Styner Stiner, an accomplished Agile leader and full-stack developer passion
 <div align="center">
   <a href="https://www.linkedin.com/in/kishana-stiner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.credly.com/users/kishana.stiner/badges"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"></a>
+</div>
+
+<div align="center">
+  <video width="320" height="240" controls>
+    <source src="https://github.com/Styner2023/Styner2023/raw/main/GitHub%20(2)%20(1).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## 🌸 Skills and Tools 🌸
@@ -64,5 +76,11 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styner2023&layout=compact&theme=buefy" alt="Top Languages" />
 </div>
 
+## 🐍 Contributions Snake 🐍
+<div align="center">
+  <img src="https://github.com/Styner2023/Styner2023/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</div>
+
 ## 🌺 Volunteer Work 🌺
-- **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remot
+- **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remote
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Styner2023.Styner2023)
