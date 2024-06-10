@@ -61,10 +61,5 @@ I successfully completed this capstone project as part of the IBM Full Stack Dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styner2023&layout=compact&theme=buefy" alt="Top Languages" />
 </div>
 
-## 🐍 Contributions Snake 🐍
-<div align="center">
-  <img src="https://github.com/Styner2023/Styner2023/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</div>
-
 ## 🌺 Volunteer Work 🌺
 - **Red Cross Disaster Cycle Services** American Red Cross · Part-time (Nov 2023 - Present · 8 mos) California, United States · Remot
