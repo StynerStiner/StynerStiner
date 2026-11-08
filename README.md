@@ -1,96 +1,123 @@
 <!-- Typing effect animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Styner+Stiner;I+love+AI+and+Coding;I+am+a+Full+Stack+Developer;Agile+Leader+%26+Scrum+Master;Currently+Learning+C%2B%2B+and+Aiming+to+Master+It;Passionate+Philomath;Dedicated+to+Sharing+Knowledge+%26+Helping+Others" alt="Typing SVG" />
-</div>
-
-
-<div align="center">
-  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
-  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/flowers.gif" alt="Flowers" width="100" style="animation: fadeInOut 5s infinite;" />
-  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" style="animation: fadeInOut 5s infinite;" />
-</div>
-
-<h2 align="center">🤓 Hi there 👋</h2>
-
-<p align="center">
-Agile Leader & Full-Stack Developer | Certified Scrum Master & Agile Practitioner | Proficient in Jira & Python | Dedicated to Driving Innovation
-</p>
-
-<p align="center">
-I'm Styner Stiner, an accomplished Agile leader and full-stack developer with a deep passion for artificial intelligence, C++ programming, and software development. Coding has always been my dream, and I am committed to becoming an engineer. I am currently attending Dominican University of California, where I am pursuing a degree in Computer Science. Beyond my technical pursuits, I am skilled in using Docker and various AWS services, including S3, Route 53, and EC2. I am dedicated to giving back to the community through public speaking and volunteering. I regularly speak to students at UCLA and Bishop O'Dowd High School on social justice, climate change, and mental health, and actively participate in the Canticle Farm community. I am fluent in English and Dutch, with beginner proficiency in French. My journey in tech is driven by a desire to innovate, solve real-world problems, and make a positive impact in the lives of others through code and community engagement.
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kishana-stiner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.credly.com/users/kishana.stiner/badges"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=27&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Styner+Stiner;Full-Stack+Software+Engineer;Founder+of+Kuumba+Code;I+build+it%2C+I+sell+it%2C+I+teach+it" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <video width="320" height="240" controls>
-    <source src="https://github.com/Styner2023/Styner2023/raw/main/GitHub%20(2)%20(1).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" />
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/flowers.gif" alt="Flowers" width="100" />
+  <img src="https://github.com/Styner2023/Styner2023/raw/main/assets/roses.gif" alt="Roses" width="100" />
 </div>
 
-## 🌟 Skills and Tools 🌟
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,github,linux,docker,aws" alt="Skills" />
+<h2 align="center">👋 Hi, I'm Styner</h2>
 
-  ## 🎉 Achievements 🎉
+<p align="center"><b>Full-Stack Software Engineer & Fractional CTO · Founder of Kuumba Code · Oakland, CA</b></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM I">
-  <img src="https://img.shields.io/badge/Python%20Essentials-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials">
-  <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20II-000000?style=for-the-badge&logo=professional&logoColor=white" alt="PSM II">
-  <img src="https://img.shields.io/badge/Google%20Project%20Management%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management Certificate">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="transform: scale(1.2);">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Applications%20Developer-000000?style=for-the-badge&logo=developer&logoColor=white" alt="Full Stack Applications Developer">
+I build software for businesses and nonprofits, I sell technology to the people who use it, and I teach people to build with AI themselves.
+My work sits where those three meet: I can sit with a business owner, understand what they need, build it, and leave them able to run it.
 </p>
 
-## 💕 Passion Projects 💕 
+<div align="center">
+  <a href="https://www.linkedin.com/in/styner-stiner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+  <a href="https://www.styner.dev/"><img src="https://img.shields.io/badge/styner.dev-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.kuumbacode.com/"><img src="https://img.shields.io/badge/Kuumba%20Code-6A1B9A?style=for-the-badge&logo=bookstack&logoColor=white" alt="Kuumba Code"></a>
+  <a href="mailto:contact@stynerdev.com"><img src="https://img.shields.io/badge/contact@stynerdev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
-### ToDoList Built with C++ 
-[ToDoList Repository](https://github.com/Styner2023/ToDoList)
-This project showcases my skills in C++ through the development of a comprehensive ToDo list application. The application features task creation, editing, and deletion, with a focus on a user-friendly interface and efficient performance. This project allowed me to demonstrate my ability to design and implement software solutions in C++.
+---
 
-### Voice of Power Empowering Voices through Technology 
-[Voice of Power Repository](https://github.com/Styner2023/Voice_of_Power)
-Voice of Power is a web application I developed to enable users to upload PDF books and have them read aloud using Text-to-Speech (TTS) technology. The application supports multiple languages, various voices, and two reading speeds. It is designed to be accessible 24/7, hosted for free, and aims to help individuals, including the formerly incarcerated, to have their stories read aloud.
+## 🌟 What I do
 
-### Voice of Power Architecture Architectural Overview 
-[Voice of Power Architecture Repository](https://github.com/Styner2023/voice-of-power-architecture)
-This repository contains the detailed architectural design and documentation for the Voice of Power project. It includes diagrams, technical specifications, and implementation strategies to provide a comprehensive understanding of the system's structure and components. This project highlights my ability to plan and document complex system architectures.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Full Stack Application Development Project V2 
-[Full Stack Application Development Project V2 Repository](https://github.com/Styner2023/xrwvm-fullstack_developer_capstone)
-I successfully completed this capstone project as part of the IBM Full Stack Developer Professional Certificate. In this project, I designed and implemented a dynamic user experience using REACT, Python, Django, MongoDB, Node.js, Docker, and Kubernetes. The project involved building, testing, and deploying a micro-services based application. I also utilized GitHub and GitHub Actions for code maintenance and version management, demonstrating my proficiency in full stack development.
+### 💼 Sales
+- Business banker at **U.S. Bank** and **Wells Fargo**
+- Tech sales, including **POS systems** for small businesses
+- Title and closing documents at **Timios, Inc.**
+- I built my own lead pipeline: a booking page plus an Apps Script that logs every consult to a Sheet
+- Salesforce · HubSpot · n8n
 
-## 📊 GitHub Stats 📊
+[`sales` repos →](https://github.com/Styner2023?tab=repositories&q=topic%3Asales)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 Teaching: Kuumba Code
+- **Founder & lead instructor** of [Kuumba Code](https://www.kuumbacode.com/)
+- I don't write my clients' words for them. I teach them, hands-on, to **use AI in VS Code** to update their own sites.
+- Kids build real games with me at **Canticle Farm** and at birthday parties
+- Taught elementary math in **Suriname**
+
+[`teaching-kuumba-code` repos →](https://github.com/Styner2023?tab=repositories&q=topic%3Ateaching-kuumba-code)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Building & Automation
+- **[BenefitsSafe](https://benefitssafe.com/)**: grant disbursement and compliance platform for nonprofits
+- **SentinelLayer**: guardrail layers for AI agents
+- **Digital Footprint Hub**: OSINT platform
+- Client websites for small businesses, nonprofits, musicians, scholars and farms
+- Automations that take the mundane work off people's plates
+
+[`building-automation` repos →](https://github.com/Styner2023?tab=repositories&q=topic%3Abuilding-automation)
+
+</td>
+</tr>
+</table>
+
+👉 **See it all sorted: [StynerDev-Portfolio](https://github.com/Styner2023/StynerDev-Portfolio)**: every client site and product, live links and code, in these three categories.
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| [**BenefitsSafe**](https://github.com/Styner2023/benefitssafe-app) | Grant disbursement and compliance platform for nonprofits · Next.js, TypeScript, PostgreSQL, Stripe · [benefitssafe.com](https://benefitssafe.com/) |
+| [**SentinelLayer**](https://github.com/Styner2023/sentinellayer) | Security and guardrail layers for AI agents |
+| [**Digital Footprint Hub**](https://github.com/Styner2023/digitalfootprinthub) | OSINT and digital-footprint platform |
+| [**Kuumba Code**](https://github.com/Styner2023/kuumbacode) | My coding school's site · [kuumbacode.com](https://www.kuumbacode.com/) |
+| [**Voice of Power**](https://github.com/Styner2023/Voice_of_Power) | Upload a PDF book and hear it read aloud, in many languages and voices. Built so formerly incarcerated people can have their stories heard. ([architecture](https://github.com/Styner2023/voice-of-power-architecture)) |
+| [**IBM Full Stack capstone**](https://github.com/Styner2023/xrwvm-fullstack_developer_capstone) | Microservices app with React, Django, Node.js, MongoDB, Docker and Kubernetes, CI with GitHub Actions |
+
+📚 **[StynerDev-Study](https://github.com/Styner2023/StynerDev-Study)**: the 549 open-source projects I study and teach with, sorted into 9 topics.
+
+---
+
+## 🧰 Skills and tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,django,cpp,java,html,css,tailwind,postgres,mongodb,docker,kubernetes,aws,gcp,vercel,github,githubactions,linux,vscode,notion" alt="Skills" />
+</p>
+<p align="center">AI agents, LLMs & RAG · Blockchain (ICP / Motoko) · Expo / React Native · Google Apps Script · Jira · Salesforce · HubSpot · n8n</p>
+
+## 🏅 Certifications
+<p align="center">
+  <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSM I"></a>
+  <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20II-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSM II"></a>
+  <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management"></a>
+  <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity"></a>
+  <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/IBM%20Full%20Stack%20(edX)-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full Stack"></a>
+  <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Python%20Essentials-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Essentials"></a>
+</p>
+
+---
+
+## 🌺 Community
+- **American Red Cross**, Disaster Cycle Services: disaster recovery caseworker. I also designed a case-management database for following up with households after fires, floods and earthquakes.
+- **Guest speaker** on technology, education and justice: UC Santa Cruz, Canticle Farm, Root & Rebound, MILPA Collective
+- **Canticle Farm, Oakland**: community websites and tech, and coding with the kids on site
+- **ASCAP-registered songwriter**
+
+## 🌐 Languages
+**English** (fluent) · **Dutch** (fluent) · **French** (beginner)
+
+## 📊 GitHub stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Styner2023&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide=prs,issues" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Styner2023&theme=buefy&count_private=true" alt="GitHub Streak Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styner2023&layout=compact&theme=buefy" alt="Top Languages" />
 </div>
-
-## 🌺 Volunteer Work 🌺
-<div align="center">
-  <img src="https://github.com/Styner2023/Styner2023/raw/main/Red%20Cross.png" alt="Red Cross" width="120" style="vertical-align: middle;"/>
-  <span><strong>Red Cross Disaster Cycle Services</strong> at American Red Cross · (Nov 2023 - Present · 8 mos) N. California · Remote</span>
-</div>
-<ul>
-  <li><strong>Developing</strong> a well-normalized database, recognized for its efficiency in recovery planning and case work follow-up for households impacted by local disaster events.</li>
-  <li><strong>Providing</strong> comprehensive support for households impacted by events such as home fires, floods/storm damage, and earthquakes.</li>
-  <li><strong>Facilitating</strong> referrals and connecting individuals with appropriate resources for recovery, ensuring thorough assistance.</li>
-  <li><strong>Collaborating</strong> with team members to ensure comprehensive support and efficient coordination for affected households.</li>
-</ul>
-
-## 🎤 Public Speaking & Community Engagement 🎤
-- **Public Speaker** at UCLA and Bishop O’Dowd High School: Speak to 25-30 students every month on topics such as social justice, climate change, and mental health.
-- **Active Participant** at Canticle Farm: Engaged in community activities focused on social justice and environmental sustainability. Learn more about the community [here](https://canticlefarmoakland.org/about/).
-
-## 🌐 Language Skills 🌐
-- **English**: Fluent
-- **Dutch**: Fluent
-- **French**: Beginner
-
-
