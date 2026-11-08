@@ -80,7 +80,7 @@ My work sits where those three meet: I can sit with a business owner, understand
 - **AI is my accelerator, not my architect.** Tests, benchmarks and judgment decide what ships.
 - **Design for failure.** Timeouts, fallbacks and graceful degradation are features.
 
-📚 **Now learning:** performance engineering, async I/O and RAG/vector search, from P99 CONF 2026, where I put questions directly to the engineers behind ScyllaDB, PostHog and Confluent's systems. 🎉 I also [won the P99 CONF book bundle from ScyllaDB](https://www.linkedin.com/feed/update/urn:li:activity:7520553052043390976/), and I'm reading *Latency*, *Think Distributed Systems*, *Database Performance at Scale* and *Designing Data-Intensive Applications*.
+📚 **Now learning:** performance engineering, async I/O and RAG/vector search, from P99 CONF 2026, where I put questions directly to the engineers behind ScyllaDB, PostHog and Confluent's systems. 🎉 I also [won the P99 CONF book bundle from ScyllaDB](https://www.linkedin.com/posts/styner-stiner_p99conf-scylladb-softwareengineering-share-7520553048981651456-G3Fo/), and I'm reading *Latency*, *Think Distributed Systems*, *Database Performance at Scale* and *Designing Data-Intensive Applications*.
 
 👉 **See it all sorted: [StynerDev-Portfolio](https://github.com/StynerStiner/StynerDev-Portfolio)**: every client site and product, live links and code, in these three categories.
 
