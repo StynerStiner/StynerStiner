@@ -64,6 +64,8 @@ My work sits where those three meet: I can sit with a business owner, understand
 - **[BenefitsSafe](https://benefitssafe.com/)**: grant disbursement and compliance platform for nonprofits
 - **SentinelLayer**: compliance agents that watch BenefitsSafe around the clock
 - **Digital Footprint Hub**: OSINT platform
+- Fractional CTO and lead developer for a cross-platform mental-health learning app
+- Python automations that increased marketing leads 30%
 - Client websites for small businesses, nonprofits, musicians, scholars and farms
 - Automations that take the mundane work off people's plates
 
@@ -72,6 +74,13 @@ My work sits where those three meet: I can sit with a business owner, understand
 </td>
 </tr>
 </table>
+
+### ⚙️ How I engineer
+- **Measure first.** I watch tail latency (P95/P99), not averages, because averages hide the users having the worst experience.
+- **AI is my accelerator, not my architect.** Tests, benchmarks and judgment decide what ships.
+- **Design for failure.** Timeouts, fallbacks and graceful degradation are features.
+
+📚 **Now learning:** performance engineering, async I/O and RAG/vector search, from P99 CONF 2026, where I put questions directly to the engineers behind ScyllaDB, PostHog and Confluent's systems.
 
 👉 **See it all sorted: [StynerDev-Portfolio](https://github.com/StynerStiner/StynerDev-Portfolio)**: every client site and product, live links and code, in these three categories.
 
