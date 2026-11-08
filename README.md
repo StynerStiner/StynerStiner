@@ -34,14 +34,14 @@ My work sits where those three meet: I can sit with a business owner, understand
 <tr>
 <td width="33%" valign="top">
 
-### 💼 Sales
-- Business banker at **U.S. Bank** and **Wells Fargo**
-- Tech sales, including **POS systems** for small businesses
+### 💼 Technical Sales & Customer Engineering
+- I bridge business and engineering: find the real need, demo the solution, build it, and hand it off
+- Business banker at **U.S. Bank** and **Wells Fargo**, selling **POS and payment technology** to business owners
 - Title and closing documents at **Timios, Inc.**
-- I built my own lead pipeline: a booking page plus an Apps Script that logs every consult to a Sheet
-- Salesforce · HubSpot · n8n
+- Built my own pipeline: a booking page plus an Apps Script that logs every consult to a Sheet
+- Salesforce · HubSpot · n8n · Google Workspace
 
-[`sales` repos →](https://github.com/StynerStiner?tab=repositories&q=topic%3Asales)
+[`technical-sales` repos →](https://github.com/StynerStiner?tab=repositories&q=topic%3Atechnical-sales)
 
 </td>
 <td width="33%" valign="top">
