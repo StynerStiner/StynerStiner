@@ -18,6 +18,8 @@ I build software for businesses and nonprofits, I sell technology to the people 
 My work sits where those three meet: I can sit with a business owner, understand what they need, build it, and leave them able to run it.
 </p>
 
+<p align="center">🎯 <b>Open to:</b> Customer Engineer · Forward Deployed Engineer · Sales Engineer · AI Solutions roles</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/styner-stiner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
@@ -116,9 +118,3 @@ My work sits where those three meet: I can sit with a business owner, understand
 
 ## 🌐 Languages
 **English** (fluent) · **Dutch** (fluent) · **French** (beginner)
-
-## 📊 GitHub stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StynerStiner&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide=prs,issues" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StynerStiner&layout=compact&theme=buefy" alt="Top Languages" />
-</div>
