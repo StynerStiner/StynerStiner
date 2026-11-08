@@ -62,7 +62,7 @@ My work sits where those three meet: I can sit with a business owner, understand
 
 ### 🛠️ Building & Automation
 - **[BenefitsSafe](https://benefitssafe.com/)**: grant disbursement and compliance platform for nonprofits
-- **SentinelLayer**: guardrail layers for AI agents
+- **SentinelLayer**: compliance agents that watch BenefitsSafe around the clock
 - **Digital Footprint Hub**: OSINT platform
 - Client websites for small businesses, nonprofits, musicians, scholars and farms
 - Automations that take the mundane work off people's plates
@@ -82,7 +82,7 @@ My work sits where those three meet: I can sit with a business owner, understand
 | Project | What it is |
 |---|---|
 | [**BenefitsSafe**](https://github.com/StynerStiner/benefitssafe-app) | Grant disbursement and compliance platform for nonprofits · Next.js, TypeScript, PostgreSQL, Stripe · [benefitssafe.com](https://benefitssafe.com/) |
-| [**SentinelLayer**](https://github.com/StynerStiner/sentinellayer) | Security and guardrail layers for AI agents |
+| [**SentinelLayer**](https://github.com/StynerStiner/sentinellayer) | Scheduled agents that flag benefit-limit risks and unusual spending for BenefitsSafe · Node, Prisma, Docker |
 | [**Digital Footprint Hub**](https://github.com/StynerStiner/digitalfootprinthub) | OSINT and digital-footprint platform |
 | [**Kuumba Code**](https://github.com/StynerStiner/kuumbacode) | My coding school's site · [kuumbacode.com](https://www.kuumbacode.com/) |
 | [**Voice of Power**](https://github.com/StynerStiner/Voice_of_Power) | Upload a PDF book and hear it read aloud, in many languages and voices. Built so formerly incarcerated people can have their stories heard. ([architecture](https://github.com/StynerStiner/voice-of-power-architecture)) |
