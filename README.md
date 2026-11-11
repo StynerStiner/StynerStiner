@@ -21,6 +21,7 @@ My work sits where those three meet: I can sit with a business owner, understand
 <p align="center">🎯 <b>Open to:</b> Customer Engineer · Forward Deployed Engineer · Sales Engineer · AI Solutions roles</p>
 
 <div align="center">
+  <a href="https://portfolio.stynerdev.com"><img src="https://img.shields.io/badge/Portfolio-portfolio.stynerdev.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/styner-stiner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.credly.com/users/stynerdev"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
   <a href="https://www.styner.dev/"><img src="https://img.shields.io/badge/styner.dev-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
